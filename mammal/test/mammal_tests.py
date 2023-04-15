@@ -1,4 +1,4 @@
-from classes_directory.classes.mammal_class import Mammal
+from mammal.project.mammal_class import Mammal
 import unittest
 
 
